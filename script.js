@@ -1,6 +1,12 @@
 const menuButton = document.querySelector(".menu-button");
 const navLinks = document.querySelector(".nav-links");
 
+window.addEventListener("DOMContentLoaded", () => {
+  if (window.lucide) {
+    window.lucide.createIcons();
+  }
+});
+
 menuButton?.addEventListener("click", () => {
   const isOpen = navLinks.classList.toggle("open");
   menuButton.setAttribute("aria-expanded", String(isOpen));
