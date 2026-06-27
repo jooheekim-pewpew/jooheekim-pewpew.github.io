@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="740" viewBox="0 0 1920 740" role="img" aria-label="Map and office location">
+  <rect width="1920" height="740" fill="#ead8ca"/>
+  <path d="M0 194 C236 116 382 238 590 158 C792 80 938 156 1128 112 C1338 64 1546 132 1920 54 L1920 740 L0 740 Z" fill="#fffaf4" opacity=".74"/>
+  <path d="M-80 590 C210 480 380 620 680 500 C910 408 1084 460 1348 360 C1570 276 1730 292 2000 232" fill="none" stroke="#bd9c8c" stroke-width="34" stroke-linecap="round" opacity=".78"/>
+  <path d="M560 112 L760 642 M1020 64 L1200 690 M1420 88 L1540 642" stroke="#fffaf4" stroke-width="24" stroke-linecap="round" opacity=".9"/>
+  <g transform="translate(880 178)">
+    <path d="M160 0 C248 0 320 72 320 160 C320 274 160 424 160 424 C160 424 0 274 0 160 C0 72 72 0 160 0 Z" fill="#c91e1e"/>
+    <circle cx="160" cy="160" r="60" fill="#fffaf4"/>
+  </g>
+  <rect x="1060" y="446" width="360" height="104" rx="52" fill="#221c19" opacity=".18"/>
+  <rect x="1095" y="474" width="290" height="48" rx="24" fill="#fffaf4" opacity=".92"/>
+  <rect x="1140" y="491" width="198" height="14" rx="7" fill="#c91e1e"/>
+</svg>

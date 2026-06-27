@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="881" viewBox="0 0 720 881" role="img" aria-label="Business plan consulting">
+  <rect width="720" height="881" fill="#f7f6f2"/>
+  <rect x="78" y="116" width="564" height="650" rx="42" fill="#c91e1e"/>
+  <rect x="126" y="174" width="468" height="534" rx="30" fill="#fffaf4"/>
+  <rect x="178" y="242" width="250" height="22" rx="11" fill="#c91e1e"/>
+  <rect x="178" y="302" width="358" height="12" rx="6" fill="#bd9c8c"/>
+  <rect x="178" y="334" width="282" height="12" rx="6" fill="#bd9c8c"/>
+  <circle cx="246" cy="478" r="78" fill="#ead8ca"/>
+  <path d="M246 478 L246 400 A78 78 0 0 1 324 478 Z" fill="#c91e1e"/>
+  <path d="M246 478 L312 520 A78 78 0 0 1 208 546 Z" fill="#221c19" opacity=".82"/>
+  <rect x="382" y="425" width="124" height="16" rx="8" fill="#c91e1e"/>
+  <rect x="382" y="467" width="160" height="12" rx="6" fill="#bd9c8c"/>
+  <rect x="382" y="499" width="134" height="12" rx="6" fill="#bd9c8c"/>
+  <rect x="178" y="615" width="358" height="22" rx="11" fill="#c91e1e" opacity=".72"/>
+</svg>

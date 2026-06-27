@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="881" viewBox="0 0 720 881" role="img" aria-label="Management improvement consulting">
+  <rect width="720" height="881" fill="#ead8ca"/>
+  <rect x="104" y="132" width="512" height="620" rx="44" fill="#fffaf4"/>
+  <circle cx="360" cy="364" r="150" fill="#f7f6f2"/>
+  <path d="M360 214 A150 150 0 1 1 230 439" fill="none" stroke="#c91e1e" stroke-width="44" stroke-linecap="round"/>
+  <path d="M360 214 A150 150 0 0 1 507 335" fill="none" stroke="#221c19" stroke-width="44" stroke-linecap="round" opacity=".82"/>
+  <circle cx="360" cy="364" r="74" fill="#fffaf4"/>
+  <rect x="166" y="582" width="388" height="18" rx="9" fill="#c91e1e"/>
+  <rect x="166" y="630" width="310" height="13" rx="7" fill="#bd9c8c"/>
+  <rect x="166" y="666" width="242" height="13" rx="7" fill="#bd9c8c"/>
+</svg>

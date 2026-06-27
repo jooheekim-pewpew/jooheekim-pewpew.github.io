@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="881" viewBox="0 0 720 881" role="img" aria-label="Policy funding consulting">
+  <rect width="720" height="881" fill="#ead8ca"/>
+  <circle cx="572" cy="150" r="165" fill="#fffaf4" opacity=".8"/>
+  <rect x="96" y="150" width="528" height="580" rx="34" fill="#fffaf4"/>
+  <rect x="148" y="214" width="230" height="24" rx="12" fill="#c91e1e"/>
+  <rect x="148" y="274" width="412" height="14" rx="7" fill="#bd9c8c"/>
+  <rect x="148" y="312" width="332" height="14" rx="7" fill="#bd9c8c"/>
+  <rect x="150" y="410" width="86" height="170" rx="18" fill="#c91e1e"/>
+  <rect x="274" y="350" width="86" height="230" rx="18" fill="#221c19" opacity=".82"/>
+  <rect x="398" y="292" width="86" height="288" rx="18" fill="#c91e1e" opacity=".76"/>
+  <path d="M155 650 C248 612 322 650 410 586 C470 542 508 493 558 432" fill="none" stroke="#c91e1e" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="558" cy="432" r="24" fill="#c91e1e"/>
+</svg>

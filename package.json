@@ -1,0 +1,17 @@
+{
+  "name": "km-consulting-homepage",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --webpack --hostname 127.0.0.1",
+    "build": "next build --webpack",
+    "start": "next start --hostname 127.0.0.1"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.108.2",
+    "next": "16.0.10",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  }
+}

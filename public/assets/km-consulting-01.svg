@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="560" viewBox="0 0 560 560" role="img" aria-label="Consulting process">
+  <rect width="560" height="560" fill="#f7f6f2"/>
+  <rect x="68" y="90" width="424" height="380" rx="32" fill="#fffaf4"/>
+  <circle cx="158" cy="190" r="44" fill="#c91e1e"/>
+  <circle cx="280" cy="280" r="44" fill="#c91e1e" opacity=".78"/>
+  <circle cx="402" cy="370" r="44" fill="#221c19" opacity=".82"/>
+  <path d="M198 210 L240 250 M320 300 L362 340" stroke="#bd9c8c" stroke-width="16" stroke-linecap="round"/>
+  <rect x="122" y="258" width="115" height="12" rx="6" fill="#bd9c8c"/>
+  <rect x="242" y="386" width="115" height="12" rx="6" fill="#bd9c8c"/>
+</svg>
